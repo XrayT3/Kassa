@@ -1,1 +1,1 @@
-# Kassa
+# Telegram Channel Access Bot
